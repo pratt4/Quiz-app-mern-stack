@@ -1,0 +1,19 @@
+GET http://localhost:3001/bk
+
+###
+
+GET http://localhost:3001/bk
+
+###
+
+POST http://localhost:3001/abc/new
+Content-Type : application/json
+
+{
+  "username":"abcd",
+  "password":"qwerr"
+}
+
+###
+
+DELETE http://localhost:3001/abc/delete/61b429091c7a1f77d173b473
