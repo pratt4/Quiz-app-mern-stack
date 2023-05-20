@@ -1,0 +1,15 @@
+.Heading{
+    color: darkgrey;
+    justify-content: center;
+    text-align: center;
+}
+.submitButton{
+    align-items: center;
+    justify-content: center;
+}
+.Line{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    justify-self: center;
+}

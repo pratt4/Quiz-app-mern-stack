@@ -1,0 +1,19 @@
+GET http://localhost:3001/bk
+
+###
+
+GET http://localhost:3001/bk
+
+###
+
+POST http://localhost:3001/abc/new
+Content-Type : application/json
+
+{
+  "username":"pradyuman",
+  "password":"dlfkjsldjf"
+}
+
+###
+
+DELETE http://localhost:3001/abc/delete/61b1f8cba79f841a0d936d53
